@@ -1,4 +1,5 @@
 #!/bin/bash
+#为防止误删，自制一个垃圾箱
 myrm_help() {
     echo "rm [options] filename"
     echo "options : -r ; -f"
